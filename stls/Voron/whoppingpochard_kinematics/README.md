@@ -1,3 +1,6 @@
+# Modified parts to use with whoppingpochard's kinematic bed mounts
+This fork contains modified parts to add 8mm of z-height to the probe dock to match the 8mm added by whoppingchard's kinematic bed mounts.
+
 ## Necessary changes 
 Requires no hardware changes from the original mod *unless you plan to use* **VoronGantryMount2_Bkt_whoppingpochard.stl**, which is used for the gantry-mounted dock options.
 
