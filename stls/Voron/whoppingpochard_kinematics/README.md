@@ -2,7 +2,7 @@
 This fork contains modified parts to add 8mm of z-height to the probe dock to match the 8mm added by whoppingchard's kinematic bed mounts.
 
 ## Necessary changes 
-Requires no hardware changes from the original Euclid probe *unless you plan to use* **VoronGantryMount2_Bkt_whoppingpochard.stl**, which is used for the gantry-mounted dock options.
+Requires no hardware changes from the original Euclid probe docks *unless you plan to use* **VoronGantryMount2_Bkt_whoppingpochard.stl**, which is corresponds to the gantry-mounted dock options.
 
 [Gantry Dock](https://euclidprobe.github.io/02c_Voron2.html#gantry-dock--mount) and [90 Degree Gantry Dock](https://euclidprobe.github.io/02c_Voron2.html#90-degree-gantry-dock--mount)
 
